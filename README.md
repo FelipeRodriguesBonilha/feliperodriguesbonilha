@@ -1,3 +1,5 @@
+<div style="background-color: black">
+
 ### Olá, eu sou Felipe Rodrigues! 👋
 #### sou um desenvolvedor fullstack.
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -15,3 +17,5 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRodriguesBonilha&theme=midnight-purple&layout=compact)
+
+</div>
