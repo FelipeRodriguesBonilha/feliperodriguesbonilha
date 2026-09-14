@@ -1,28 +1,51 @@
-### Olá, eu sou Felipe Rodrigues! 👋
-#### sou um desenvolvedor fullstack.
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+# Olá, eu sou Felipe Rodrigues! 👋
 
-<div style="display: flex; justify-content: center">
+### Full Stack Developer | Backend Focus
 
-![Felipe Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRodriguesBonilha&theme=midnight-purple&show_icons=true)
+Sou desenvolvedor de software com foco no desenvolvimento de **APIs, aplicações web e soluções backend**, trabalhando principalmente com **Node.js, NestJS, TypeScript e PostgreSQL**.
+
+Também possuo experiência com desenvolvimento frontend utilizando **Angular**, além de bancos de dados relacionais, Docker e ambientes em nuvem.
+
+Atualmente, busco aprofundar meus conhecimentos em **arquitetura backend, microsserviços, mensageria e cloud**.
+
+---
+
+### 🛠️ Tecnologias
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="42" title="NestJS"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="42" title="Angular"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" title="Azure"/>
 
 </div>
 
-### Tecnologias
-<div style="display: inline-block">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" style="margin-left: 5px"/>      
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40" style="margin-left: 5px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" width="40" height="40" style="margin-left: 5px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" style="margin-left: 5px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin-left: 5px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" style="margin-left: 5px"/>
+### 📊 GitHub
+
+<div align="left">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeRodriguesBonilha&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRodriguesBonilha&layout=compact&theme=github_dark&hide_border=true" />
+
 </div>
-          
-          
-          
 
-          
-          
+### 📫 Contato
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRodriguesBonilha&theme=midnight-purple&layout=compact)
+<a href="https://www.linkedin.com/in/felipe-rodrigues-4256863a7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
